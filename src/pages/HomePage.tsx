@@ -36,7 +36,7 @@ const HomePage: React.FC = () => {
                       size="lg" 
                       className="bg-white text-primary-900 hover:bg-gray-100 w-full sm:w-auto border-2 border-white"
                     >
-                      En savoir plus
+                      En savoir pluss
                     </Button>
                   </Link>
                 </div>
